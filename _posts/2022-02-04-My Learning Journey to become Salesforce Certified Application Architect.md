@@ -1,4 +1,3 @@
-h1 contenteditable="true" class="wp-block wp-block-post-title block-editor-block-list__block editor-post-title editor-post-title__input rich-text is-selected" aria-label="Add title" role="textbox" aria-multiline="true" style="white-space: pre-wrap; min-width: 1px;">My Learning Journey to become Salesforce Certified Application Architect</h1>
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
