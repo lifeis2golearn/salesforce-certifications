@@ -1,1 +1,1 @@
-Some tech stuff
+Technical stuff
