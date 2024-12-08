@@ -19,7 +19,7 @@ description: "Salesforce Application Architect Certifications" # This will show 
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: "minima"
-remote_theme: "Jalpc"
+theme: jekyll-theme-yat
 
 rss: rss
 
